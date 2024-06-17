@@ -1,2 +1,3 @@
 # Oli-project
-this ismy  first repository
+this is my first repository
+Author : Harshit Oli
